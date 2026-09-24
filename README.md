@@ -2,18 +2,18 @@
 TDA Contagio Coronavirus
 Atributos: 
 
-*Individuo 
+* Individuo 
 
-*Estado 
+* Estado 
 
-*Fecha de Contagio 
+* Fecha de Contagio 
 
-*Síntomas 
+* Síntomas 
 
 Metodos: 
 
-*Contagiar () 
+* Contagiar () 
 
-*MostrarEstado () 
+* MostrarEstado () 
 
 * RegistrarSintomas () 
