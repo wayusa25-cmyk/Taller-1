@@ -16,4 +16,4 @@ Metodos:
 
 *MostrarEstado () 
 
-*RegistrarSintomas () 
+* RegistrarSintomas () 
